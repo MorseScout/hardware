@@ -69,7 +69,7 @@ for the exact manufacturer part number:
 | Bourns `PTV09A-4030F-B103` potentiometer | `PTV09A-4030F-B103.stp` | [Search](https://componentsearchengine.com/search?term=PTV09A-4030F-B103) |
 | Omron `B3F-4050` pushbutton | `B3F-4050.stp` | [Search](https://componentsearchengine.com/search?term=B3F-4050) |
 | Bourns `PEC11R-4230F-S0024` encoder | `PEC11R-4230F-S0024.stp` | [Search](https://componentsearchengine.com/search?term=PEC11R-4230F-S0024) |
-| DS3231 RTC module | `DS3231-RTC-V3.step` | Obtain a compatible module model from its original CAD provider |
+| DS3231 RTC module | `DS3231-RTC-V3.step` | Based on the [DS3231 RTC Module model on GrabCAD](https://grabcad.com/library/ds3231-rtc-module-1) |
 | Megastar `ZX-HY2.0-4PZZ` four-position HY2.0 connector | `CONN-TH_4P-P2.00_HX20020-4A_2.step` | [LCSC C7429580](https://www.lcsc.com/product-detail/C7429580.html) |
 
 Availability differs by part: the service may offer a direct download or a
