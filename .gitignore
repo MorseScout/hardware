@@ -1,0 +1,22 @@
+# KiCad editor-local state and autosaves
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_sym-bak
+*.lck
+_autosave-*
+~*.kicad_sch
+~*.kicad_pcb
+
+# Generated backup and local history directories
+*-backups/
+.history/
+
+# Temporary reports and files
+*.tmp
+*.bak
+*.rpt
+
+# Operating-system metadata
+Thumbs.db
+.DS_Store

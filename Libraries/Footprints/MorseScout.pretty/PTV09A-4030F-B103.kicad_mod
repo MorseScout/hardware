@@ -1,0 +1,429 @@
+(footprint "PTV09A-4030F-B103"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "11.00mm x 9.70mm x 30mm")
+	(tags "Variable Resistor")
+	(property "Reference" "REF**"
+		(at 2.5 2.5 180)
+		(layer "F.SilkS")
+		(uuid "ac984f77-237a-459b-a718-95a5508575dd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "PTV09A-4030F-B103"
+		(at 2.5 -5.875 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "eaef3fb8-9d34-45f2-8f80-9c1ae760a947")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a65a5c1a-bd76-4ccf-9955-4a050b2d1102")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "10 kOhm linear potentiometer; project-owned symbol"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "58f2b956-7181-43a8-ba86-d5c569eae7e1")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" "30.5"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0fbedc06-8730-491d-b8d3-3c988ceeb939")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "652-PTV09A4030FB103"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a0997f3-996e-4678-91e4-98b1a16a50ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4030F-B103?qs=Zq5ylnUbLm4pfFuWlwC80Q%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e719ecb2-b580-49bd-a74a-8021079dd966")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Bourns"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1bb83b61-8bf5-47e2-bfdd-74b8b9658dda")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "PTV09A-4030F-B103"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "773f4801-a17a-474e-9370-e1a5c9466436")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.5 -12.5)
+		(end -2.5 -9.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aa40bca2-7926-4bfd-8625-5a19d14a9233")
+	)
+	(fp_line
+		(start -2.5 -1.5)
+		(end -2.5 -4.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8a6a22fb-44b7-4024-8c9e-f5f05778f2ac")
+	)
+	(fp_line
+		(start -1.9 -1.5)
+		(end -1.9 -0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b2d77c87-a2a5-404d-9c2b-7d8472e6c19b")
+	)
+	(fp_line
+		(start -1.9 -0.5)
+		(end -1 -0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8706334-ae9f-49cb-b034-b367a551e350")
+	)
+	(fp_line
+		(start 0 1.3)
+		(end 0 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "77250d37-0c28-4bb9-aede-f77b0c430f4e")
+	)
+	(fp_line
+		(start 0 1.4)
+		(end 0 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "87021648-7f37-4848-b920-6543f606b02d")
+	)
+	(fp_line
+		(start 6.9 -1.5)
+		(end 6.9 -0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90b12e3c-4768-406c-b3e5-935f957f060d")
+	)
+	(fp_line
+		(start 6.9 -0.5)
+		(end 6 -0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2f1f83dd-68fa-41bf-a007-995da9219670")
+	)
+	(fp_line
+		(start 7.5 -12.5)
+		(end -2.5 -12.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "93d03b3d-33fa-41d7-bb8c-a7e358753f46")
+	)
+	(fp_line
+		(start 7.5 -9.4)
+		(end 7.5 -12.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2552ca1e-9bf2-49d7-a6e9-53f9c58242b8")
+	)
+	(fp_line
+		(start 7.5 -4.6)
+		(end 7.5 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "08b1665d-cdd7-4290-a79e-82b2a0c9c0fc")
+	)
+	(fp_line
+		(start 7.5 -1.5)
+		(end -2.5 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4329b4e-25f5-4bcb-a70c-8103f1a6429d")
+	)
+	(fp_arc
+		(start 0 1.3)
+		(mid 0.05 1.35)
+		(end 0 1.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b14ff66-5f0e-423d-9aa4-61baaa0a1ac2")
+	)
+	(fp_arc
+		(start 0 1.4)
+		(mid -0.05 1.35)
+		(end 0 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5432de8-2856-42c6-9580-aaa41c09e510")
+	)
+	(fp_line
+		(start -5.03 -13.5)
+		(end 10.03 -13.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "56f15f97-a26f-4fd4-bb79-79f183ae534d")
+	)
+	(fp_line
+		(start -5.03 1.75)
+		(end -5.03 -13.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7da761e4-73a3-47d2-8719-d9a4f739bc89")
+	)
+	(fp_line
+		(start 10.03 -13.5)
+		(end 10.03 1.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4dde96c6-7c71-4ac8-be1f-5f792d1cdaa1")
+	)
+	(fp_line
+		(start 10.03 1.75)
+		(end -5.03 1.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "27715a2c-6b8c-432e-91ab-5530e4c3b4fd")
+	)
+	(fp_line
+		(start -2.5 -12.5)
+		(end 7.5 -12.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a72eeddb-949c-4c99-8b4b-2eab8453faaf")
+	)
+	(fp_line
+		(start -2.5 -1.5)
+		(end -2.5 -12.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7ff3c200-fda9-4f5e-a299-9691fdb3efcd")
+	)
+	(fp_line
+		(start -1.9 -1.5)
+		(end -1.9 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5b375c30-2b25-4927-8f95-a64f21c1e0f4")
+	)
+	(fp_line
+		(start -1.9 -0.5)
+		(end 6.9 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "03f7ef2d-3ad8-4b62-8d7c-ead1197bba60")
+	)
+	(fp_line
+		(start 6.9 -0.5)
+		(end 6.9 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f4f17697-417b-4ddc-9fbe-24587e791a77")
+	)
+	(fp_line
+		(start 7.5 -12.5)
+		(end 7.5 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8ec7f123-816c-4597-80f4-1862e6625f8f")
+	)
+	(fp_line
+		(start 7.5 -1.5)
+		(end -2.5 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ac0e731e-cdb9-4e1c-8827-0600354d65ad")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.5 -5.875 180)
+		(layer "F.Fab")
+		(uuid "8e3d8073-601c-4770-b960-00bf77fa90b9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6ac561f1-badd-4129-a635-f618fbee6452")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "497f5f87-c34d-467f-89fd-2045b59391c8")
+	)
+	(pad "3" thru_hole circle
+		(at 5 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "307c5be4-f59e-40e7-bb3d-969b6b22d29c")
+	)
+	(pad "4" thru_hole circle
+		(at -1.9 -7)
+		(size 4.26 4.26)
+		(drill 2.84)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4b7f70fd-2502-4529-92ac-7c5c64e663b9")
+	)
+	(pad "5" thru_hole circle
+		(at 6.9 -7)
+		(size 4.26 4.26)
+		(drill 2.84)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b961ca15-36b6-4bac-aa03-5768e3cac8da")
+	)
+	(model "${MORSESCOUT_3DMODEL_DIR}/PTV09A-4030F-B103.stp"
+		(offset (xyz 2.5 7.06 6.06))
+		(scale (xyz 1 1 1))
+		(rotate (xyz -90 -180 0))
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,8 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Resistor_SMD") (type "KiCad") (uri "${KICAD10_FOOTPRINT_DIR}/Resistor_SMD.pretty") (options "") (descr "KiCad SMD resistor footprints"))
+	(lib (name "Capacitor_SMD") (type "KiCad") (uri "${KICAD10_FOOTPRINT_DIR}/Capacitor_SMD.pretty") (options "") (descr "KiCad SMD capacitor footprints"))
+	(lib (name "Connector_JST") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Footprints/Connector_JST.pretty") (options "") (descr ""))
+	(lib (name "MorseScout") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Footprints/MorseScout.pretty") (options "") (descr "MorseScout project-owned footprints"))
+	(lib (name "1_DS3231_RTC_Module") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Footprints/1_DS3231_RTC_Module.pretty") (options "") (descr ""))
+)
